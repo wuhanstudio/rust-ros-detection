@@ -1,4 +1,4 @@
-# Rust Yolo Object Detection
+# ROS Object Detection using Rust language (YOLOv3)
 
 This demo reads images from the ROS topic `/usb_cam/image_raw` and pass it to the darknet model.
 
